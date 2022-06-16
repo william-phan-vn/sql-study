@@ -1,0 +1,4 @@
+SELECT *
+FROM <table>
+ORDER BY <column> DESC
+LIMIT 10;

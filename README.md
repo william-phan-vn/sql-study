@@ -1,1 +1,2 @@
 # sql-study
+udacity course
